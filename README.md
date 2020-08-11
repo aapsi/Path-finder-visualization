@@ -14,10 +14,9 @@ And it is also worth mentioning that many games and web-based maps use this algo
 
 ### Images
 # 
+### Two points (blue and yellow) and the black represents obstruction
 ![Two points (blue and yellow) and the black represents obstruction](https://github.com/aapsi/Path-finder-visualization/blob/master/Screenshot%20(431).png)
-
-![path finding](https://github.com/aapsi/Path-finder-visualization/blob/master/Screenshot%20(432).png)
-
+### path finding
 ![path finding](https://github.com/aapsi/Path-finder-visualization/blob/master/Screenshot%20(433).png)
-
+### Path Found
 ![path found](https://github.com/aapsi/Path-finder-visualization/blob/master/Screenshot%20(434).png)
